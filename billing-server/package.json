@@ -1,0 +1,14 @@
+{
+  "name": "billing-server",
+  "version": "1.0.0",
+  "description": "Node.js server to handle billing operations for a company",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests available\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}

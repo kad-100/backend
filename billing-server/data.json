@@ -1,0 +1,16 @@
+// data.json
+
+{
+    "users": [],
+    "products": [
+      { "id": 1, "name": "Product A", "price": 1200 },
+      { "id": 2, "name": "Product B", "price": 5500 },
+      { "id": 3, "name": "Product C", "price": 800 }
+    ],
+    "services": [
+      { "id": 1, "name": "Service X", "price": 1500 },
+      { "id": 2, "name": "Service Y", "price": 8500 },
+      { "id": 3, "name": "Service Z", "price": 700 }
+    ]
+  }
+  
